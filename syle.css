@@ -1,0 +1,25 @@
+.hero {
+  background-color: #2d47f1;
+  color: white;
+  padding: 20px 0;
+}
+.hero button {
+  background-color: white;
+  color: #2d47f1;
+  font-weight: bold;
+  border-radius: 0;
+  padding: 10px 25px;
+  border: none;
+}
+.hero button:hover {
+  background-color: #1d36d1;
+  color: white;
+}
+.nav-link,
+.navbar-brand {
+  color: white !important;
+  font-weight: 500;
+}
+.nav-link:hover {
+  color: #aabafd !important;
+}
